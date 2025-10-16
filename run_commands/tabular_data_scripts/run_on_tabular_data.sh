@@ -1,0 +1,1 @@
+python training/mll_on_tabular_data.py --config tabular_config.yaml

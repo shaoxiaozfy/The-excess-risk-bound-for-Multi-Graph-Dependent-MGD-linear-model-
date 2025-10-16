@@ -1,0 +1,4 @@
+test_loss mean:0.2958
+test_loss std: 0.0025
+test_auc mean:0.8745
+test_auc std: 0.0017

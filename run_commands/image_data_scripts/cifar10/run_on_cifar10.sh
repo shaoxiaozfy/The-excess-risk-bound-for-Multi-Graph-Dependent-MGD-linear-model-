@@ -1,0 +1,1 @@
+python training/mcl_on_image_data.py --config configs/cifar10_config.yaml

@@ -1,0 +1,1 @@
+python training/test1.py --config eurlex_config.yaml

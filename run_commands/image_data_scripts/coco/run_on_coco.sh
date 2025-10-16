@@ -1,0 +1,1 @@
+python training/mll_on_image_data.py --config coco_config.yaml
