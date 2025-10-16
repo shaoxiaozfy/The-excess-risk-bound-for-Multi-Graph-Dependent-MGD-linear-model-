@@ -1,0 +1,14 @@
+goemotions
+running time:694.519887s
+11.575331 minutes
+goemotions
+running time:1815.899915s
+30.264999 minutes
+
+goemotions
+running time:14216.772612s
+3.949104 hours
+
+goemotions
+running time:3038.029199s
+50.633820 minutes

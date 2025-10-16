@@ -1,0 +1,34 @@
+emotions
+running time:53.665495s
+53.665495 s
+
+CAL500
+running time:284.924498s
+4.748742 minutes
+
+Image
+running time:72.530824s
+1.208847 minutes
+
+scene
+running time:85.144707s
+1.419078 minutes
+
+yeast
+running time:128.504910s
+2.141748 minutes
+
+corel5k
+running time:2552.390033s
+42.539834 minutes
+
+rcv1subset1_top944
+running time:1042.249071s
+17.370818 minutes
+bibtex
+running time:2196.649785s
+36.610830 minutes
+
+delicious
+running time:27311.207608s
+7.586447 hours
